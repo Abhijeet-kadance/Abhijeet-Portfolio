@@ -33,8 +33,8 @@ const About = () => {
       </motion.div>
 
       <motion.p variants={fadeIn("","",0.1,1)}
-      className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'>
-        Proficient in backend technologies such as Django, Django Rest Framework, and Node.js, I specialize in building scalable and performant web applications. On the frontend, I craft engaging user interfaces with React, HTML, CSS, and styling frameworks like Bootstrap and Tailwind CSS. Adept at configuring web servers and prioritizing security, I ensure robust and secure deployments. With a keen eye for UI/UX design, I create visually appealing and user-friendly experiences. Committed to continuous learning, I stay updated on the latest trends in web development. Let's collaborate to elevate your digital presence! 💡💻
+      className='mt-4 text-secondary text-[17px] max-w-7xl leading-[30px]'>
+        Proficient in backend technologies such as Django, Django Rest Framework, and Node.js, I specialize in building scalable and performant web applications. On the frontend, I craft engaging user interfaces with React, HTML, CSS, and styling frameworks like Bootstrap and Tailwind CSS. Skilled in Docker for seamless deployments, CI/CD for automation, and possess basic Ansible knowledge for infrastructure tasks. Adept at configuring web servers and prioritizing security, I ensure robust and secure deployments. With a keen eye for UI/UX design, I create visually appealing and user-friendly experiences. Committed to continuous learning, I stay updated on the latest trends in web development. Let's collaborate to elevate your digital presence! 💡💻
 
       </motion.p>
 
